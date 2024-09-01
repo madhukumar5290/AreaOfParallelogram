@@ -1,2 +1,2 @@
 # AreaOfParallelogram
- Area of Parallelogram course for kK8
+ Area of Parallelogram course for K8
